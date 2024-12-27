@@ -45,4 +45,6 @@ In conclusion, file handling utilities are indispensable tools for managing digi
 
 ![text files img](https://github.com/user-attachments/assets/884e5346-6089-43a6-9e11-6a60a9d5a93d)
 
+![sript img](https://github.com/user-attachments/assets/2968067f-ce0b-432c-ba0e-de71ca80e9c5)
+
 
