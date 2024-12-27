@@ -40,3 +40,9 @@ File handling utilities play a crucial role in enhancing user productivity and m
 *   **Enhance collaboration:** File sharing and synchronization features facilitate teamwork and enable efficient exchange of information.
 
 In conclusion, file handling utilities are indispensable tools for managing digital information in today's computing environment. They provide a comprehensive suite of functionalities that empower users to organize, access, and manipulate files effectively, contributing to increased productivity, improved data security, and enhanced collaboration.
+
+**OUTPUT OF THE TASKS**
+
+![text files img](https://github.com/user-attachments/assets/884e5346-6089-43a6-9e11-6a60a9d5a93d)
+
+
